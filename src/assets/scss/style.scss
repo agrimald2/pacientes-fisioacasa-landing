@@ -1,0 +1,11 @@
+@import "variables.scss";
+@import "mixins.scss";
+@import "typography.scss";
+@import "spacing.scss";
+@import "common.scss";
+@import "../scss/components.scss";
+.center{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
